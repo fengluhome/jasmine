@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JSTesting.JasmineJs.Reporters</id>
+    <version>1.0.1</version>
+    <title>Jasmine.js reporters</title>
+    <authors>Ruslan Mogilevskiy</authors>
+    <owners>Ruslan Mogilevskiy</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Jasmine various reporters</description>
+    <language>en-US</language>
+    <tags>Jasmine.js reporters</tags>
+  </metadata>
+</package>

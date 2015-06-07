@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>jasminejs</id>
+    <version>2.2</version>
+    <title>jasmine.js</title>
+    <authors>Pivotal Labs</authors>
+    <owners>Pivotal Labs</owners>
+    <projectUrl>https://github.com/jasmine/jasmine</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Jasmine is a Behavior Driven Development testing framework for JavaScript</description>
+    <language>en-US</language>
+    <tags>jasminejs</tags>
+  </metadata>
+</package>
